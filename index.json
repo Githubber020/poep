@@ -1,0 +1,11 @@
+{
+  "apps": [
+    {
+      "packageName": "com.instagram.lite",
+      "name": "Instagram Lite",
+      "versionCode": 12,
+      "versionName": "12.0",
+      "apkUrl": "https://github.com/Githubber020/poep/releases/download/v12/instagram_lite.apk"
+    }
+  ]
+}
